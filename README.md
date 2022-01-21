@@ -23,14 +23,14 @@ python main.py -h
 python main.py -u [URL] -sf [FILENAME] -c [NUMBER] -v -ce
 ```
 # Flags And Meaning:
-  -h, --help   =>          show this help message and exit <br>
-  -u [URL], --url [URL]     Specify the target url you want to scan! <br>
-  -sf [FILE_NAME], --save-file [FILE_NAME]
+  -h, --help   *=>*          show this help message and exit. <br>
+  -u [URL], --url [URL]   *=>*  Specify the target url you want to scan. <br>
+  -sf [FILE_NAME], --save-file [FILE_NAME] *=>*
                         Specify file name if you want to save it. defualt is None.<br>
-  -c [COUNT], --count [COUNT]
+  -c [COUNT], --count [COUNT] *=>*
                         Specify the number of URLs you want to scan. defualt is 100.<br>
-  -v, --verbose         Specify if you want to see output. defualt is False.<br>
-  -ce, --check-email    Specify if you want to check for invalid emails. defualt is False.<br>
+  -v, --verbose    *=>*     Specify if you want to see output. defualt is False.<br>
+  -ce, --check-email  *=>*  Specify if you want to check for invalid emails. defualt is False.<br>
   
 # Examples:
 *scan 10 "subdomains" of github.com, save the emails to 'emails.txt', check for invalid emais:* <br>
