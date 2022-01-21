@@ -38,7 +38,7 @@ python main.py -u [URL] -sf [FILENAME] -c [NUMBER] -v -ce
 
 # Pay Attention❤️
 The word subdomains is misleading. The program scans for links in the corrent page.<br>
-It's using the fact that links usually stored in a tags.<br>
+It's using the fact that links usually stored in *a* tags.<br>
 ```html
 <a href="URL">TEXT</a>
 ```
