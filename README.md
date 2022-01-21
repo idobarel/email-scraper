@@ -7,7 +7,7 @@ Python program that allows you to scan a given URL for emails.
 *https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe*
 * Download the files from this repository by clicking on 'Code', Download ZIP.
 * Extract the files from the .zip, and navigate to the new folder.
-* Open this folder in CMD. ~click on the search bar and type cmd~
+* Open this folder in CMD. *click on the search bar and type cmd*
 * Install the dependencies:  
 ```
 $ pip install -r req.txt
